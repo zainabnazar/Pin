@@ -25,7 +25,7 @@ It's also useful to note that some keys on the PIN pad appear to be more worn/us
 
 # Example:
 For the following approximate PIN: 46
-The possible real PINs would be: 13, 15, 16, 19, 43, 45, 46, 49, 53, 55, 56, 59, 73, 75, 76, 79
+The possible real PINs would be: ```13, 15, 16, 19, 43, 45, 46, 49, 53, 55, 56, 59, 73, 75, 76, 79```
 
 # Requisition 
 ```
@@ -45,5 +45,5 @@ node pinOrder.js
 # To Test another pin
 - Navigate inside pinOrder.js
 - Enter the pin you want to test in line 50
-- Run the node pinOrder.js command
+- Run the ```node pinOrder.js``` command
 
