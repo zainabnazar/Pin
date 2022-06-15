@@ -27,7 +27,7 @@ It's also useful to note that some keys on the PIN pad appear to be more worn/us
 For the following approximate PIN: 46
 The possible real PINs would be: ```13, 15, 16, 19, 43, 45, 46, 49, 53, 55, 56, 59, 73, 75, 76, 79```
 
-# Requisition 
+# Install NPM
 ```
 Run npm install
 ```
@@ -37,7 +37,7 @@ Run npm install
 npm run test
 ```
 
-# To Run 
+# To Run the function with pin 97516
 Run the below command in the terminal 
 ```
 node pinOrder.js
